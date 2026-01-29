@@ -2,7 +2,7 @@
   "items": [
     { "path": "course1", "title": "介紹 Linux 常見指令，讓你可以習慣使用終端機操作電腦。"},
     { "path": "course2", "title": "介紹 Linux 常見工具，這會讓你可以做到更多事情。"},
-    { "path": "course3"},
-    { "path": "course4"}
+    { "path": "course3", "title": "介紹 Linux 網路相關指令，讓你可以探索網路設定。"},
+    { "path": "course4", "title": "介紹如何用 Docker 執行 Kali Linux，讓你可以快速體驗 Kali Linux。"}
   ]
 }
